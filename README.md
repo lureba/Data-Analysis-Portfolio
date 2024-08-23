@@ -1,7 +1,7 @@
 # Data Analysis Portfolio
 
 
-## Projetos
+## Projects
 ### [Data Cleaning and Exploratory Analysis of ENEM](https://github.com/lureba/ENEM-EDA-EN-US)
 - Description: In this data analysis project, our focus was on the detailed exploration of the 2022 ENEM (National High School Exam) data. The central aim of this work was to clean, organize, and subsequently analyze this extensive dataset. Using Jupyter Notebook as our platform, we relied on a robust set of Python libraries, including Pandas, Numpy, Matplotlib, Seaborn, and Geopandas, to conduct various stages of the project.
 
