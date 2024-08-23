@@ -7,6 +7,8 @@
 
 - Analysis: In the analysis phase, our goal was to investigate socioeconomic and demographic factors that might be related to candidates' performance in the ENEM. Rather than developing predictive models, we chose to focus our efforts on creating informative and intuitive data visualizations. The purpose was to interpret these visualizations to identify patterns and trends that could provide insights into the factors that enhance or limit students' performance on the exam.
 - **Some Visualizations**
+
+
     ![Screenshot_4](https://github.com/user-attachments/assets/cebfe15e-ec10-4dbc-9d58-a461a8aba80b)
     ![Screenshot_5](https://github.com/user-attachments/assets/cbb01771-8d2f-4966-b540-d3824895dad4)
 
