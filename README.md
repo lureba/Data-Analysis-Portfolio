@@ -16,8 +16,10 @@
 - Description: This project analyzes energy consumption and CO2 emissions at Korea Electric Power Corporation, focusing on seasonal patterns and operational efficiency. Using various visualizations, we explore energy usage across different load types and timeframes, revealing insights into how these factors influence emissions. The analysis aims to identify optimization opportunities, guiding sustainable practices and energy efficiency initiatives within the steel industry.
 - **Some Visualizations**
 
-![Screenshot_31](https://github.com/user-attachments/assets/1aa47fd7-a10c-4f1c-bce6-2c075ee2b539)
 
+
+    ![Screenshot_31](https://github.com/user-attachments/assets/1aa47fd7-a10c-4f1c-bce6-2c075ee2b539)
+    ![Screenshot_32](https://github.com/user-attachments/assets/eecb5d6c-dc0c-4650-acdb-2f6773a6b3d9)
 
 
 
