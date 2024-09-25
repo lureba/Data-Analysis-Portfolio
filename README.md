@@ -12,6 +12,8 @@
     ![Screenshot_4](https://github.com/user-attachments/assets/cebfe15e-ec10-4dbc-9d58-a461a8aba80b)
     ![Screenshot_5](https://github.com/user-attachments/assets/cbb01771-8d2f-4966-b540-d3824895dad4)
 
+### [CO2 Emissions-Analysis for Korea Electric Power Corporation](CO2-Emissions-Analysis-for-Korea-Electric-Power-Corporation)
+- Description: This project analyzes energy consumption and CO2 emissions at Korea Electric Power Corporation, focusing on seasonal patterns and operational efficiency. Using various visualizations, we explore energy usage across different load types and timeframes, revealing insights into how these factors influence emissions. The analysis aims to identify optimization opportunities, guiding sustainable practices and energy efficiency initiatives within the steel industry.
 
 
 
