@@ -16,10 +16,12 @@
 - Description: In this project, we focused on exploring the Titanic dataset through both a data analysis and machine learning approach. The primary objective was to clean, preprocess, and analyze the data to understand the factors influencing passenger survival. We used Jupyter Notebook as our platform, leveraging Python libraries such as Pandas, Numpy, Matplotlib, Seaborn, and Scikit-learn to perform various stages of the project, from data exploration to model building and evaluation.
 
 - Analysis: During the analysis phase, our focus was on identifying key factors—such as passenger demographics, ticket class, and embarkation port—that contributed to survival chances. Instead of focusing solely on predictive modeling, we emphasized the creation of clear and insightful data visualizations to communicate the story behind the data. These visualizations aimed to reveal patterns and relationships that provide a deeper understanding of the factors that influenced survival on the Titanic.
-- 
+  
 - **Some Visualizations**
 
-![Screenshot_31](https://github.com/user-attachments/assets/8671d73b-214b-45c0-8a60-585ddc919edb)
+![Model Selection 3 - Copia](https://github.com/user-attachments/assets/441fc339-acbd-44b8-932e-f8bee9bc6f45)
+![Overall Age 2 - Copia](https://github.com/user-attachments/assets/2f43042e-a0c9-4b83-8599-3c37e803a8b9)
+
 
 
 
