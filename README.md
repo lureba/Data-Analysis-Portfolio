@@ -12,8 +12,11 @@
     ![Screenshot_4](https://github.com/user-attachments/assets/cebfe15e-ec10-4dbc-9d58-a461a8aba80b)
     ![Screenshot_5](https://github.com/user-attachments/assets/cbb01771-8d2f-4966-b540-d3824895dad4)
 
-### [CO2 Emissions-Analysis for Korea Electric Power Corporation](CO2-Emissions-Analysis-for-Korea-Electric-Power-Corporation)
-- Description: This project analyzes energy consumption and CO2 emissions at Korea Electric Power Corporation, focusing on seasonal patterns and operational efficiency. Using various visualizations, we explore energy usage across different load types and timeframes, revealing insights into how these factors influence emissions. The analysis aims to identify optimization opportunities, guiding sustainable practices and energy efficiency initiatives within the steel industry.
+### [Titanic: Machine Learning Model and Data Storytelling](https://github.com/lureba/Titanic-US)
+- Description: In this project, we focused on exploring the Titanic dataset through both a data analysis and machine learning approach. The primary objective was to clean, preprocess, and analyze the data to understand the factors influencing passenger survival. We used Jupyter Notebook as our platform, leveraging Python libraries such as Pandas, Numpy, Matplotlib, Seaborn, and Scikit-learn to perform various stages of the project, from data exploration to model building and evaluation.
+
+- Analysis: During the analysis phase, our focus was on identifying key factors—such as passenger demographics, ticket class, and embarkation port—that contributed to survival chances. Instead of focusing solely on predictive modeling, we emphasized the creation of clear and insightful data visualizations to communicate the story behind the data. These visualizations aimed to reveal patterns and relationships that provide a deeper understanding of the factors that influenced survival on the Titanic.
+- 
 - **Some Visualizations**
 
 ![Screenshot_31](https://github.com/user-attachments/assets/8671d73b-214b-45c0-8a60-585ddc919edb)
