@@ -18,8 +18,6 @@
 - Analysis: During the analysis phase, our focus was on identifying key factors—such as passenger demographics, ticket class, and embarkation port—that contributed to survival chances. Instead of focusing solely on predictive modeling, we emphasized the creation of clear and insightful data visualizations to communicate the story behind the data. These visualizations aimed to reveal patterns and relationships that provide a deeper understanding of the factors that influenced survival on the Titanic.
   
 - **Some Visualizations**
-
-![Model Selection 3 - Copia](https://github.com/user-attachments/assets/441fc339-acbd-44b8-932e-f8bee9bc6f45)
 ![Overall Age 2 - Copia](https://github.com/user-attachments/assets/2f43042e-a0c9-4b83-8599-3c37e803a8b9)
 
 
